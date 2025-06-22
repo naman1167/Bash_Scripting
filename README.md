@@ -54,7 +54,7 @@ Welcome to the **Bash Scripting** repository! 🚀 This repo covers essential Ba
 ## 🎯 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bash-scripting.git
+   git clone https://github.com/naman1167/bash-scripting.git
    ```
 2. Navigate into the directory:
    ```bash
